@@ -17,7 +17,7 @@ public class Main {
         byte tiny = 66;
         short small = 150;
         int bigger = 1200;
-        long large = 23500090l;
+        long large = 23500090L;
         float huge = 7.42f;
         double theBiggest = 3.14159265;
 
@@ -33,7 +33,7 @@ public class Main {
         System.out.println("\n" + "Задача 2" + "\n");
 
         float a = 27.12f;
-        long b = 987678965549l;
+        long b = 987678965549L;
         double c = 2.386;
         int d = 569;
         short e = -159;
